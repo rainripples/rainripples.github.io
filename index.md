@@ -1,1 +1,1 @@
-## Welcome to git hub pages - don't know what i'm doing
+## Welcome to git hub pages 
